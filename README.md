@@ -5,3 +5,4 @@
 - Filipe
 - Joseph
 - Wu-Jung
+- Nick, https://github.com/SeascapeScience
