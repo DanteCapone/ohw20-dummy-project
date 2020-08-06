@@ -1,2 +1,6 @@
 # ohw20-dummy-project
-This repository will be deleted after the git tutorial, nothing to see here!
+
+
+I'm keeping
+
+This is the extra line you asked for.
