@@ -1,6 +1,7 @@
-# ohw20-dummy-project
+# ohw20-a-proper-project
 
+## list of participants
 
-I'm keeping
-
-This is the extra line you asked for.
+- Filipe
+- Joseph
+- Emilio
